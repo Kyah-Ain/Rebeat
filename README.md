@@ -1,17 +1,14 @@
 # Rebeat
 
 ## Logline
-  A legendary tale of a puzzle - platformer about the Filipino mythological creature "Manananggal" and its abilities.
+  An introspective visual novel about a man rewriting his pivotal decisions, where every choice forces him to confront the past or remain trapped forever.
 
 ## Overview
-  This game features an iconic famous mythical creature in the Philippines called **Manananggal**.
+  A visual novel about a man who's stuck in a loop of one of his unforgottable regret in his lifetime.
   <br><br>
-  Our project aims to promote cultural folklore in an engaging 2D platformer that enhances critical thinking and problem-solving skills, as well as to encourage newer generations to learn more about the rich cultural stories the Philippines has to offer. 
-  <br><br>
-  With this approach, the Philippines could attract investors and gain the attention of large gaming companies to help prosper the growth of the game development industry and position the country for future opportunities in the global gaming market.
+  The idea is to immerse players in life-changing game choices that could affect others, and show them the cycle of life when one chooses to stay holding on to their past without resolving themselves, leaving them in a continuous cycle of regret that hinders their growth and development in life. This serves as a real-life representation of living with regrets due to holding onto the past without letting go or taking accountability for your actions.
 
 ## Game Screenshots
-- 
 
 <div align ="center">
   
@@ -23,7 +20,7 @@
   
   |     Action       |            Input            |
   | ---------------  | --------------------------- |
-  | Next Scene       | Left Click                  |
+  | Interaction      | Left Click                  |
 
 ## Project Type
 - Individual
