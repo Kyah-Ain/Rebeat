@@ -1,4 +1,4 @@
-# Rebeat
+# Rebeat (developed using Unity)
 
 ## Logline
   An introspective visual novel about a man rewriting his pivotal decisions, where every choice forces him to confront the past or remain trapped forever.
